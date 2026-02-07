@@ -1,0 +1,12 @@
+# iRacing Discord Number Bot - Dependencies
+
+# Discord library
+discord.py>=2.3.2
+
+# Async HTTP client for iRacing API
+aiohttp>=3.9.0
+
+# SQLite async support
+aiosqlite>=0.19.0
+
+# Python 3.10+ required
